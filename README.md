@@ -95,7 +95,7 @@
 </details>
 
 <details>
-<summary><code>POST</code> <code><b>/withdraw</b></code> <code>Transfering money to other wallet</code></summary>
+<summary><code>POST</code> <code><b>/transfer</b></code> <code>Transfering money to other wallet</code></summary>
 
 ##### Parameters
 
